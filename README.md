@@ -5,5 +5,5 @@ Collection of slides for talks delivered on various occasions.
 
 ### Machine learning [**ml**]
 
- - **[hc-meas-conf](ml/hc-meas-conf)** (2020) -- presentation of paper by S. Budd et al.: *Confident Head Circumterence Measurement from Ultrasound with Real-time Feedback for Sonographers* (2019).
+ - **[hc-meas-conf](ml/hc-meas-conf)** (2020)[PL] -- presentation of paper by S. Budd et al.: *Confident Head Circumterence Measurement from Ultrasound with Real-time Feedback for Sonographers* (2019).
 
