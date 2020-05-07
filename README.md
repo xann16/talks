@@ -9,6 +9,8 @@ Topics in machine learning and deep learning. Includes:
 
  - **[hc-meas-conf](ml/hc-meas-conf)** (2020)[PL] -- presentation of paper by S. Budd et al.: *Confident Head Circumterence Measurement from Ultrasound with Real-time Feedback for Sonographers* (2019).
 
+ - **[3d-bonet](ml/3d-bonet)** (2020)[PL] -- presentation of paper by B. Yang et al.: *Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds* (2019).
+
 ### Artificial Intelligence [**ai**]
 
 Topics in broad topic of artificial intelligence and cognitive science. Does not include machine learning (see above). Includes:
