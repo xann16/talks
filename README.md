@@ -3,6 +3,12 @@ Collection of slides for talks delivered on various occasions.
 
 ## Contents
 
+### Computational Fluid Dynamics [**cfd**]
+
+Topics in computational fluid dynamics:
+
+ - **[turb-dns-les-1](cfd/turb-dns-les-1)** (2021)[EN] -- summary of first part of project concerning comparison of DNS and LES simulations for obtaining particle statiscics in particle-laden turbulent flows with two-way momentum coupling (focus on comparison of accuracy of both methods). 
+
 ### Machine Learning [**ml**]
 
 Topics in machine learning and deep learning:
