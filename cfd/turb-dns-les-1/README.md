@@ -7,7 +7,11 @@ Language: English.
 Delivered on:
 
  - 26.01.2021 for seminar on *Partial Differential Equations* (moderated by A. Ochal and P. Zgliczyński), Faculty of Mathematics and Computer Science, Jagiellonian University, Kraków, Poland;
+<<<<<<< HEAD
  - 13.05.2021 for *A2S* group seminar (moderated by M. Paszyński), Institute of Computer Science, Faculty of Computer Science, Electronics and Telecommunication, AGH University of Science and Technology, Kraków, Poland.
+=======
+ - 13.05.2021 for *A2S* group seminar (moderated by M. Paszyński), Institute of Computer Science, Faculty of Computer Science, Electronics and Telecommunication, AGH University of Science and Technology, Kraków. Poland.
+>>>>>>> afecb15509d48d121d35ea1c9d7634c7ccb9dc4b
 
 Revision history:
 
