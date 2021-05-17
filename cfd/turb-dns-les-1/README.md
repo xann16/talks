@@ -7,11 +7,11 @@ Language: English.
 Delivered on:
 
  - 26.01.2021 for seminar on *Partial Differential Equations* (moderated by A. Ochal and P. Zgliczyński), Faculty of Mathematics and Computer Science, Jagiellonian University, Kraków, Poland;
- - 13.05.2021 for A2S group seminar, Institute of Computer Science, Aculty of Computer Science, Electronics and Telecommunication, AGH University of Science and Technology, Kraków. Poland.
+ - 13.05.2021 for *A2S* group seminar (moderated by M. Paszyński), Institute of Computer Science, Faculty of Computer Science, Electronics and Telecommunication, AGH University of Science and Technology, Kraków, Poland.
 
 Revision history:
 
- - **[13.05.21 (most recent)](turb-dns-les-1.pdf)** -- swveral minor fixes and additions, added plots for two-way momentum coupling data depending on particle radii, as presented on *A2S* seminar;
+ - **[13.05.21 (most recent)](turb-dns-les-1.pdf)** -- several minor fixes and additions, added plots for two-way momentum coupling data depending on particle radii, as presented on *A2S* seminar;
 
  - **[16.02.21](arch/turb-dns-les-1_16-02-21.pdf)** -- updated with data plots showing particle statistics for simulations with two-way momentum coupling and gravity;
 
