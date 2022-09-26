@@ -9,4 +9,4 @@ TODO
 
 OWC particle distribution in subdomains (a = 60 um):
 
-[UPS!!!](extras/pfp-owc-anim.gif)
+![UPS!!!](extras/pfp-owc-anim.gif)
