@@ -8,10 +8,13 @@ Delivered on:
 
  - 26.01.2021 for seminar on *Partial Differential Equations* (moderated by A. Ochal and P. Zgliczyński), Faculty of Mathematics and Computer Science, Jagiellonian University, Kraków, Poland;
  - 13.05.2021 for *A2S* group seminar (moderated by M. Paszyński), Institute of Computer Science, Faculty of Computer Science, Electronics and Telecommunication, AGH University of Science and Technology, Kraków, Poland.
+ - 27.10.2022 for Defense of Master's Thesis - Massively Parallel Pseudo-Spectral DNS and LES for Particle-Laden Turbulent Flows under Two-Way Momentum Coupling (Computer Science, Jagiellonian University, Kraków) - *NOTE: This presentation contains more recent and full data, but less details on numeric method than previous archival versions*.
 
 Revision history:
 
- - **[13.05.21 (most recent)](turb-dns-les-1.pdf)** -- several minor fixes and additions, added plots for two-way momentum coupling data depending on particle radii, as presented on *A2S* seminar;
+ - **[27.10.22 (most recent)](turb-dns-les-1.pdf)** -- fixed and updated data, but less theoretical details on numeric method; as presented during the defense of Master's Thesis;
+
+ - **[13.05.21](arch/turb-dns-les-1_13-05-21.pdf)** -- several minor fixes and additions, added plots for two-way momentum coupling data depending on particle radii, as presented on *A2S* seminar;
 
  - **[16.02.21](arch/turb-dns-les-1_16-02-21.pdf)** -- updated with data plots showing particle statistics for simulations with two-way momentum coupling and gravity;
 
