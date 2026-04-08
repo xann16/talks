@@ -1,6 +1,10 @@
 # talks
 Collection of slides for talks delivered on various occasions.
 
+## Most Recent
+
+ - **[ISS 2026 Talk - Always Measure!](conf/iss2026/mmanna_iss2026.pdf)** (2026)[EN].
+
 ## Contents
 
 ### Computational Fluid Dynamics [**cfd**]
