@@ -3,7 +3,7 @@ Collection of slides for talks delivered on various occasions.
 
 ## Most Recent
 
- - 2026-04-08 - **[Always Measure: Analyzing Performance of Point-Particle DNS under Two-Way Momentum Coupling](conf/iss2026/iss2026.pdf)** (delivered remotely at ISS 2026 Conference; Boulder, CO, USA)[EN].
+ - 2026-04-08 - **[Always Measure: Analyzing Performance of Point-Particle DNS under Two-Way Momentum Coupling](conf/iss2026)** (delivered remotely at ISS 2026 Conference; Boulder, CO, USA)[EN].
 
 ## Contents
 
@@ -31,7 +31,7 @@ Topics in broadly understood domains of artificial intelligence and cognitive sc
 
 Topics regarding engineering and development of research and scientific software:
 
-- **[iss2026](conf/iss2026/iss2026.pdf)** (2026)[EN] -- conference talk: *Always Measure: Analyzing Performance of Point-Particle DNS under Two-Way Momentum Coupling* focusing on the importance of measuring when considering computational performance of software, with case study of research software used to estimate collision statistics of droplets in homogeneous and isotropic turbulence under two-way momentum coupling.
+- **[iss2026](conf/iss2026)** (2026)[EN] -- conference talk: *Always Measure: Analyzing Performance of Point-Particle DNS under Two-Way Momentum Coupling* focusing on the importance of measuring when considering computational performance of software, with case study of research software used to estimate collision statistics of droplets in homogeneous and isotropic turbulence under two-way momentum coupling.
 
 ### Philosophy [**phil**]
 
