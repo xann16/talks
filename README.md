@@ -3,7 +3,7 @@ Collection of slides for talks delivered on various occasions.
 
 ## Most Recent
 
- - **[ISS 2026 Talk - Always Measure!](conf/iss2026/mmanna_iss2026.pdf)** (2026)[EN].
+ - 2026-04-08 - **[Always Measure: Analyzing Performance of Point-Particle DNS under Two-Way Momentum Coupling](conf/iss2026/iss2026.pdf)** (delivered remotely at ISS 2026 Conference; Boulder, CO, USA)[EN].
 
 ## Contents
 
@@ -26,6 +26,12 @@ Topics in machine learning and deep learning:
 Topics in broadly understood domains of artificial intelligence and cognitive science (does not include machine learning and deep learning specific talks):
 
  - **[boa](ai/boa)** (2019)[PL] -- on Bayesian Optimization Algorithm (BOA) that combines conceptss of genetic algorithms and Bayesian networks, as well as its theoretical underpinnings, and lack of practical success.
+
+### Scientific and Research Software
+
+Topics regarding engineering and development of research and scientific software:
+
+- **[iss2026](conf/iss2026/iss2026.pdf)** (2026)[EN] -- conference talk: *Always Measure: Analyzing Performance of Point-Particle DNS under Two-Way Momentum Coupling* focusing on the importance of measuring when considering computational performance of software, with case study of research software used to estimate collision statistics of droplets in homogeneous and isotropic turbulence under two-way momentum coupling.
 
 ### Philosophy [**phil**]
 
