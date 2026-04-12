@@ -2,6 +2,8 @@
 
 Language: English.
 
+**Co-authors**: Bogdan ROSA, Ahmad ABABAEI.
+
 **Abstract**:
 
 Computational efficiency matters a lot for scientific software, whether it allows to save valuable CPU-hours on HPC systems, to complete weather predictions within strict operational time windows, or simply to enable moderately complex research codes to run on personal laptops. Although we often rely on intuition to predict whether code will be fast or slow, such intuition is increasingly unreliable. Multiple layers separate the code we write from the instructions executed on modern hardware, and these layers are both complex and opaque. The intricacies of modern CPU architectures and the sophisticated transformations applied by optimizing compilers, among other factors, make it difficult to reason about performance a priori. Consequently, in communities where performance matters, one guiding principle is widely embraced: “Always measure.”
