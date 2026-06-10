@@ -21,17 +21,28 @@ In conclusion, LES emerges as a promising approach for estimating collision stat
 *REFERENCES*:
 
 [1] Matsuda, K., Schneider, K. Yoshimatsu, K.: Scale-dependent statistics of inertial particle distribution in high Reynolds number turbulence. *Physical Review Fluids* 6, 064304 (2021).
+
 [2] Buaria, D., Bodenschatz, E., Pumir, A.: Vortex stretching and enstrophy production in high Reynolds number turbulence. *Physical Review Fluids* 5, 104602 (2020).
+
 [3] Fede, P., Simonin, O.: Numerical study of the subgrid fluid turbulence eﬀects on the statistics of heavy colliding particles. *Physics of Fluids* 18, 045103 (2006).
+
 [4] Jin, G., He, G.-W., Wang, L.-P.: Large-eddy simulation of turbulent collision of heavy particles in isotropic turbulence. *Physics of Fluids* 22, 055106 (2010).
+
 [5] Rosa, B., Pozorski, J.: Impact of subgrid fluid turbulence on inertial particles subject to gravity. *Journal of Turbulence* 18 (7), 634–652 (2017).
+
 [6] Chollet, J.-P., Lesieur, M.: Parameterization of Small Scales of Three-Dimensional Isotropic Turbulence Utilizing Spectral Closures. Journal of the Atmospheric Sciences 38 (12), 2747–2757 (1981).
+
 [7] Maxey, M. R., Riley, J. J.: Equation of motion for a small rigid sphere in nonuniform flow. *Physics of Fluids* 26 (4), 883–889 (1983).
+
 [8] Bosse, T., Kleiser, L., Meiburg, E.: Small particles in homogeneous turbulence: Settling velocity enchancement by two-way coupling. *Physics of Fluids* 18, 027102 (2006).
+
 [9] Monchaux, R., Dejoan, A.: Settling velocity and preferential concentration of heavy particles under two-way coupling eﬀects in homogeneous turbulence. *Physical Review Fluids* 2, 104302 (2017).
+
 [10] Rosa, B., Pozorski, J., Wang, L.-P.: Eﬀects of turbulence modulation and gravity on particle collision statistics. *International Journal of Multiphase Flow* 129, 103334 (2020).
+
 [11] Rosa, B., Kopeć, S., Ababaei, A., Pozorski, J.: Collision statistics and seKling velocity of inertial particles in
 homogeneous turbulence from high-resolution DNS under two-way momentum coupling. *International Journal of Multiphase Flow* 148, 103906 (2022).
+
 [12] Balachandar, S., Peng, C., Wang, L.-P.: Turbulence modulation by suspended finite-sized particles: Towards physics-based multiphase subgrid modeling. *Physical Review Fluids* 9, 044304 (2024).
 
 

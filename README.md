@@ -12,7 +12,7 @@ Collection of slides for talks delivered on various occasions.
 
 Topics in computational fluid dynamics:
 
- - **[dles15](conf/dles15)** (2026)[EN] -- conference talk: *Applicability of LES for Estimating Collision Statistics of Particles in Homogeneous Turbulence under Two-way Momentum Coupling* focusing on comparison of DNS and LES results when measuring particle collision statistics (RDF, RRV, collision kernel) when two-way momentum coupling is considered.
+ - **[dles15](conf/dles15)** (2026)[EN] -- conference talk: ***Applicability of LES for Estimating Collision Statistics of Particles in Homogeneous Turbulence under Two-way Momentum Coupling*** focusing on comparison of DNS and LES results when measuring particle collision statistics (RDF, RRV, collision kernel) when two-way momentum coupling is considered.
  - **[turb-dns-les-1](cfd/turb-dns-les-1)** (2021)[EN] -- summary of first part of project concerning comparison of DNS and LES simulations for obtaining particle statiscics in particle-laden turbulent flows with two-way momentum coupling (focus on comparison of accuracy of both methods). 
 
 ### Machine Learning [**ml**]
@@ -33,7 +33,7 @@ Topics in broadly understood domains of artificial intelligence and cognitive sc
 
 Topics regarding engineering and development of research and scientific software:
 
-- **[iss2026](conf/iss2026)** (2026)[EN] -- conference talk: *Always Measure: Analyzing Performance of Point-Particle DNS under Two-Way Momentum Coupling* focusing on the importance of measuring when considering computational performance of software, with case study of research software used to estimate collision statistics of droplets in homogeneous and isotropic turbulence under two-way momentum coupling (with B. Rosa and A. Ababaei).
+- **[iss2026](conf/iss2026)** (2026)[EN] -- conference talk: ***Always Measure: Analyzing Performance of Point-Particle DNS under Two-Way Momentum Coupling*** focusing on the importance of measuring when considering computational performance of software, with case study of research software used to estimate collision statistics of droplets in homogeneous and isotropic turbulence under two-way momentum coupling (with B. Rosa and A. Ababaei).
 
 ### Philosophy [**phil**]
 
