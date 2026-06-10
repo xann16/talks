@@ -3,6 +3,7 @@ Collection of slides for talks delivered on various occasions.
 
 ## Most Recent
 
+ - 2026-05-22 - **[Applicability of LES for Estimating Collision Statistics of Particles in Homogeneous Turbulence under Two-way Momentum Coupling](conf/dles15)** (delivered at DLES 15 Conference; Delft, NL)[EN]. 
  - 2026-04-08 - **[Always Measure: Analyzing Performance of Point-Particle DNS under Two-Way Momentum Coupling](conf/iss2026)** (delivered remotely at ISS 2026 Conference; Boulder, CO, USA)[EN].
 
 ## Contents
@@ -11,6 +12,7 @@ Collection of slides for talks delivered on various occasions.
 
 Topics in computational fluid dynamics:
 
+ - **[dles15](conf/dles15)** (2026)[EN] -- conference talk: *Applicability of LES for Estimating Collision Statistics of Particles in Homogeneous Turbulence under Two-way Momentum Coupling* focusing on comparison of DNS and LES results when measuring particle collision statistics (RDF, RRV, collision kernel) when two-way momentum coupling is considered.
  - **[turb-dns-les-1](cfd/turb-dns-les-1)** (2021)[EN] -- summary of first part of project concerning comparison of DNS and LES simulations for obtaining particle statiscics in particle-laden turbulent flows with two-way momentum coupling (focus on comparison of accuracy of both methods). 
 
 ### Machine Learning [**ml**]
